@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 <h1 align="center">Hi 👋, I'm Zeshan Ahmed</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🌱 I’m currently learning **Mern Stack**
 
