@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/87964902dd9aabbca6dd6ee0df344e2006764db7d619d6221f594c22ace6e4d6/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966">
+<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 <h1 align="center">Hi 👋, I'm Zeshan Ahmed</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
