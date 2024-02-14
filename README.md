@@ -4,7 +4,7 @@
 
  
  
-  <h1 align="center">Hi 👋, I'm Zeshan Ahmed</h1>
+  <h1 align="center">Hi 👋, I'm Shoaib Zeshan Ahmed</h1>
 <h1 align="center">A Passionate Web Developer from India</h1>
 
 
