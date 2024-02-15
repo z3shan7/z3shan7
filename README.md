@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/zeeshan-ahmed-4b56261b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan-ahmed-4b56261b4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19468123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19468123" height="30" width="40" /></a>
 </p>
-
+💻 My favorite tools and technologies
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
